@@ -1,10 +1,10 @@
 {
   "name": "@womorg/enim-nisi-vero",
-  "version": "16.27.357",
+  "version": "16.27.358",
   "description": "",
   "main": "index.js",
   "scripts": {},
-  "author": "womhla6s",
+  "author": "maggaopen",
   "license": "MIT",
   "dependencies": {
     "@womorg/accusantium-commodi-officia": "^1.0.0",
